@@ -1,6 +1,6 @@
-# responsive_ui
+# FLUTTER RESPONSIVE UI DESIGN
 
-A new Flutter project.
+![mobileView](responsive_ui\screenshot\mobileView.png)
 
 ## Getting Started
 
