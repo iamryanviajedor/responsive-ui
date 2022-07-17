@@ -11,9 +11,11 @@ var myDrawer = Drawer(
   child: Column(
     children: const [
       DrawerHeader(
-        child: Icon(
-          Icons.favorite,
-          color: Color(0XFFF7B529),
+        child: SizedBox(
+          child: Icon(
+            Icons.flutter_dash,
+            size: 50.0,
+          ),
         ),
       ),
       ListTile(
