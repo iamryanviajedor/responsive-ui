@@ -7,13 +7,13 @@ var myAppBar = AppBar(
 );
 
 var myDrawer = Drawer(
-  backgroundColor: Colors.grey[300],
+  backgroundColor: const Color(0XFF176BEF),
   child: Column(
     children: const [
       DrawerHeader(
         child: Icon(
           Icons.favorite,
-          color: Colors.pink,
+          color: Color(0XFFF7B529),
         ),
       ),
       ListTile(
