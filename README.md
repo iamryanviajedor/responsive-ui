@@ -1,6 +1,6 @@
 # FLUTTER RESPONSIVE UI DESIGN
 
-![mobileView](./responsive_ui/screenshot/mobileView.png)
+![mobileView](./screenshot/mobileView.png)
 
 ## Getting Started
 
